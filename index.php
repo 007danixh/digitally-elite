@@ -214,11 +214,11 @@
          <div class="cards grid grid--3-cols mb--lg">
            <div class="card project-card">
              <div class="img-box mb--lg">
-               <img src="./assets/img/projects/bagsventure.png" alt="" class="project-img">
+               <img src="./assets/img/projects/rapidescort.png" alt="" class="project-img">
              </div>
-             <h3 class="heading-tertiary">Bags Venture</h3>
+             <h3 class="heading-tertiary">Rapid Escort</h3>
              <p class="description">
-               A complete Ecommerce store for Bags.
+               Website of pathology lab includes functions as online registration of home sampling.
              </p>
            </div>
            <div class="card project-card">
