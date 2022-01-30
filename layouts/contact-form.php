@@ -86,7 +86,7 @@
               returnval = false;
           }
 
-          if (phone.length < 12) {
+          if (phone.length < 10) {
 
               setError('phone', '* Phone number should be at least 10 digits.');
               returnval = false;
