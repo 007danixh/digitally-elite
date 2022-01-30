@@ -31,7 +31,7 @@ session_start();
                 <div class="about-text-box">
                     <h1 class="heading-primary heading--white">Projects</h1>
                     <p class="subheading mb--lg">
-                        Our success lies in changing the game for our clients' brands. By focusing on customer outcomes, we build beautiful, engaging experiences that drive real business results.
+                        Our success lies in changing the game for our client's brands. By focusing on customer outcomes, we build beautiful, engaging experiences that drive real business results.
                     </p>
                     <a href="#contact-us" class="link btn btn-bold btn-tertiary">Request a Quote</a>
                 </div>
