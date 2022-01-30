@@ -1,0 +1,252 @@
+/**************************/
+
+/* BELOW 1000PX */
+
+/**************************/
+
+@media (max-width: 63em) {
+  .container {
+    padding: 0 3.2rem;
+  }
+  .grid {
+    column-gap: 1.6rem;
+    row-gap: 1.6rem;
+  }
+  .heading-primary {
+    font-size: 4.2rem;
+  }
+  .section-hero {
+    min-height: 92vh;
+  }
+  .hero-text-box {
+    padding-top: 3.2rem;
+  }
+  .hero-description {
+    padding-right: 0rem;
+  }
+  .about-text-box {
+    padding-left: 3.6rem;
+    padding-right: 3.6rem;
+  }
+  .footer-container {
+    padding: 6.4rem 6.4rem 3.2rem 6.4rem;
+  }
+}
+
+/**************************/
+
+/* BELOW 920PX */
+
+/**************************/
+
+@media (max-width: 58em) {
+  .logo {
+    height: 4.5rem;
+  }
+  .section-hero {
+    min-height: 90vh;
+  }
+  .heading-secondary {
+    font-size: 3.2rem;
+  }
+  .subheading {
+    font-size: 1.6rem;
+  }
+  .about-text-box {
+    padding-left: 0rem;
+    padding-right: 0rem;
+  }
+  .grid--3-cols, .grid--4-cols {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .grid {
+    column-gap: 3.2rem;
+    row-gap: 3.2rem;
+  }
+  .service-card {
+    padding: 3.2rem 3.2rem;
+  }
+  .form-box {
+    width: 90%;
+  }
+  .logo-col {
+    padding-right: 1rem;
+  }
+  .footer-container {
+    padding: 6.4rem 3.2rem 3.2rem 3.2rem;
+  }
+  .mb--section {
+    margin-bottom: 6.4rem;
+  }
+}
+
+/**************************/
+
+/* BELOW 785PX */
+
+/**************************/
+
+@media (max-width: 49em) {
+  .btn-primary, .link {
+    font-size: 1.4rem;
+  }
+  .btn-primary:link, .btn-primary:visited {
+    padding: 1.6rem 2.4rem;
+  }
+  .main-nav-list {
+    padding: 1.6rem;
+  }
+  .heading-primary {
+    font-size: 3.9rem;
+  }
+  .hero-description {
+    font-size: 1.6rem;
+  }
+  .mb--lg {
+    margin-bottom: 2.4rem;
+  }
+  .hero-btn {
+    position: unset;
+    margin: 0 auto;
+  }
+  .hero-animation {
+    z-index: -10;
+  }
+}
+
+/**************************/
+
+/* BELOW 714PX */
+
+/**************************/
+
+@media (max-width: 45em) {
+  .section-hero .grid--2-cols, .section-about .grid--2-cols {
+    grid-template-columns: 1fr;
+  }
+  .section-hero .container, .section-about .container {
+    padding: 0rem 6.4rem;
+    text-align: center;
+  }
+  .heading-primary {
+    margin-bottom: 1.6rem;
+  }
+  .hero-description {
+    padding: 0 6.4rem;
+  }
+  .hero-text-box .btn-primary, .hero-text-box .link {
+    font-size: 1.6rem;
+  }
+  .hero-text-box .btn-primary:link, .hero-text-box .btn-primary:visited {
+    padding: 1.6rem 6.4rem;
+  }
+  .hero-img {
+    padding-top: 1.6rem;
+    max-width: 60%;
+  }
+  .about-text-box {
+    padding: 0 3.2rem;
+  }
+  .about-img {
+    max-width: 60%;
+  }
+  .form-box {
+    width: 100%;
+  }
+  .grid--footer--4-cols {
+    grid-template-columns: 1.2fr 1fr;
+    grid-template-rows: 2fr;
+  }
+  .subsection>p, .pointers {
+    padding-right: 0rem;
+  }
+  /* HAMBURGER */
+  .hamburger {
+    display: block;
+  }
+  .hamburger.active .bar:nth-child(2) {
+    opacity: 0;
+  }
+  .hamburger.active .bar:nth-child(1) {
+    transform: translateY(8px) rotate(45deg);
+  }
+  .hamburger.active .bar:nth-child(3) {
+    transform: translateY(-8px) rotate(-45deg);
+  }
+  .nav-menu {
+    position: fixed;
+    left: -100%;
+    top: 100px;
+    gap: 0;
+    flex-direction: column;
+    background-color: #fff;
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+    transition: 0.3s;
+    z-index: 8;
+  }
+  .nav-item {
+    margin: 16px 0;
+    padding-top: 2rem;
+    
+  }
+  .main-nav-link {
+    padding-bottom: 10px;
+    border-bottom: 1px solid #666;
+  }
+  .nav-menu.active {
+    left: 0;
+  }
+}
+
+/**************************/
+
+/* BELOW 564PX */
+
+/**************************/
+
+@media (max-width: 35.2em) {
+  .hero-text-box {
+    padding-top: 6.4rem;
+  }
+  .section-hero .container, .section-about .container {
+    padding: 0rem 3.2rem;
+  }
+  .grid--3-cols, .grid--4-cols, .section-contact .grid--2-cols {
+    grid-template-columns: 1fr;
+  }
+  .about-text-box {
+    padding: 0 0;
+  }
+  .process-animation {
+    top: 300rem;
+  }
+}
+
+/**************************/
+
+/* BELOW 440PX */
+
+/**************************/
+
+@media (max-width: 27em) {
+  .heading-primary {
+    font-size: 3.2rem;
+  }
+  .heading-secondary {
+    font-size: 3rem;
+  }
+  .hero-description {
+    padding: 0 0;
+  }
+  .container, .section-hero .container, .section-about .container {
+    padding: 0 2.4rem;
+  }
+  .about-text-box .mb--s {
+    margin-bottom: 1.6rem;
+  }
+  .grid--footer--4-cols {
+    grid-template-columns: 1fr;
+  }
+}
