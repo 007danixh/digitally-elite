@@ -4,7 +4,7 @@
              <a class="logo-box" href="./index">
                  <img class="logo" src="assets/img/logo.svg" alt="Digitally Elite logo" />
              </a>
-             <div class="footer-icon">
+             <!-- <div class="footer-icon">
                  <i class="fas fa-map-marker-alt"></i>
                  <a class="link footer-link">Elkridge Maryland, United States</a>
              </div>
@@ -12,7 +12,7 @@
              <div class="footer-icon">
                  <i class="fas fa-phone-alt"></i>
                  <a href="tel:+1 (443) 819-7957" class="link footer-link"> (+1) 443 819 7957 (U.S) </a>
-             </div>
+             </div> -->
 
              <div class="footer-icon">
                  <i class="fas fa-phone-alt"></i>
