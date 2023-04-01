@@ -72,7 +72,7 @@
      </div>
      <div class="copyright">
          <p class="footer-description">
-             &copy; Digitally Elite. 2021. All Rights Reserved.
+             &copy; Digitally Elite. 2023. All Rights Reserved.
              <a href="./privacy-policy.php" class="link footer-link">Privacy Policy</a> |
              <a href="./terms-conditions" class="link footer-link">Terms & Conditions</a>
          </p>
