@@ -49,20 +49,24 @@ session_start();
 
                 <div class="cards grid grid--3-cols">
                     <div class="card project-card">
-             <div class="img-box mb--lg">
-               <img src="./assets/img/neversleep.png" alt="" class="project-img">
-             </div>
-          <a href="https://www.neversleepskashmir.com">  <h3 class="heading-tertiary">Never Sleeps Tour & Travel</h3> </a> 
-             <p class="description">Kashmir based tour and travel company specializes in creating customized travel experiences.</p>
-           </div>
-           <div class="card project-card">
-             <div class="img-box mb--lg">
-               <img src="./assets/img/seperhr.png" alt="" class="project-img">
-             </div>
-            <a href="https://seperhr.com"> <h3 class="heading-tertiary">Seperhr</h3></a>
-             <p class="description">Business support firms operating globally by maintaining our uncompromising principles and create value for all our stakeholders.</p>
-           </div>
+                        <div class="img-box mb--lg">
+                            <img src="./assets/img/neversleep.png" alt="" class="project-img">
+                        </div>
+                        <a href="https://www.neversleepskashmir.com">
+                            <h3 class="heading-tertiary">Never Sleeps Tour & Travel</h3>
+                        </a>
+                        <p class="description">Kashmir based tour and travel company specializes in creating customized travel experiences.</p>
+                    </div>
                     <div class="card project-card">
+                        <div class="img-box mb--lg">
+                            <img src="./assets/img/seperhr.png" alt="" class="project-img">
+                        </div>
+                        <a href="https://seperhr.com">
+                            <h3 class="heading-tertiary">Seperhr</h3>
+                        </a>
+                        <p class="description">Business support firms operating globally by maintaining our uncompromising principles and create value for all our stakeholders.</p>
+                    </div>
+                    <!-- <div class="card project-card">
                         <div class="img-box mb--lg">
                             <img src="./assets/img/projects/jobboard.png" alt="" class="project-img">
                         </div>
@@ -71,7 +75,7 @@ session_start();
                             A platform where job seekers apply for jobs
                             and recruiters hire job seekers.
                         </p>
-                    </div>
+                    </div> -->
                     <div class="card project-card">
                         <div class="img-box mb--lg">
                             <img src="./assets/img/projects/tms.png" alt="" class="project-img">
