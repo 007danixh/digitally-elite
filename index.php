@@ -212,6 +212,20 @@
          </div>
 
          <div class="cards grid grid--3-cols mb--lg">
+          <div class="card project-card">
+             <div class="img-box mb--lg">
+               <img src="./assets/img/neversleep.png" alt="" class="project-img">
+             </div>
+          <a href="https://www.neversleepskashmir.com">  <h3 class="heading-tertiary">Never Sleeps Tour & Travel</h3> </a> 
+             <p class="description">Kashmir based tour and travel company specializes in creating customized travel experiences.</p>
+           </div>
+           <div class="card project-card">
+             <div class="img-box mb--lg">
+               <img src="./assets/img/seperhr.png" alt="" class="project-img">
+             </div>
+            <a href="https://seperhr.com"> <h3 class="heading-tertiary">Seperhr</h3></a>
+             <p class="description">Business support firms operating globally by maintaining our uncompromising principles and create value for all our stakeholders.</p>
+           </div>
            <div class="card project-card">
              <div class="img-box mb--lg">
                <img src="./assets/img/projects/rapidescort.png" alt="" class="project-img">
@@ -221,7 +235,7 @@
                Website of pathology lab includes functions as online registration of home sampling.
              </p>
            </div>
-           <div class="card project-card">
+           <!-- <div class="card project-card">
              <div class="img-box mb--lg">
                <img src="./assets/img/projects/tms.png" alt="" class="project-img">
              </div>
@@ -229,8 +243,8 @@
              <p class="description">
                Dashboard for Transport management system which includes all the functionality of logistics software.
              </p>
-           </div>
-           <div class="card project-card">
+           </div> -->
+           <!-- <div class="card project-card">
              <div class="img-box mb--lg">
                <img src="./assets/img/projects/bagsventure.png" alt="" class="project-img">
              </div>
@@ -238,7 +252,7 @@
              <p class="description">
                A complete Ecommerce store for Bags.
              </p>
-           </div>
+           </div> -->
          </div>
 
          <a type="submit" href="./projects.php" class="link btn btn-bold btn-primary ">
