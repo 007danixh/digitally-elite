@@ -1,4 +1,9 @@
- <footer class="footer">
+
+<footer class="footer">
+    <!-- Whats app -->
+  <a href="https://api.whatsapp.com/send?phone=917006026629" target="_blank">
+    <img class="whatsapp" src="assets/img/WhatsApp.png" alt="WhatsApp" />
+  </a>
      <div class="footer-container grid grid--footer--4-cols">
          <div class="logo-col">
              <a class="logo-box" href="./index">

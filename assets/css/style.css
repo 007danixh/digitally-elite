@@ -3,7 +3,16 @@
 /* HEADER */
 
 /**************************/
-
+.whatsapp {
+  position: fixed;
+  bottom: 20px;
+  /* Adjust the value as per your preference */
+  right: 20px;
+  /* Adjust the value as per your preference */
+  width: 60px;
+  height: 60px;
+  z-index: 100;
+}
 .header {
   height: 11.6rem;
   display: flex;
